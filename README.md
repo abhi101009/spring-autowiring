@@ -1,5 +1,5 @@
 # spring @autowiring
-This project is a guide for spring autowiring by enabling component-scan using xml and covers all points of `DI`, `@Qualifier`,`@Scope` and achiving all type of Dependency Injection `constructor`, `setter`, `field` by appling `@Autowired` annotation.
+This project is a guide for spring autowiring by enabling component-scan using xml and covers all points of `DI`, `@Qualifier`,`@Scope` and achiving all type of Dependency Injection `constructor`, `setter`, `field` by applying `@Autowired` annotation.
 
 # Download lib
 To download spring lib please refer below url
